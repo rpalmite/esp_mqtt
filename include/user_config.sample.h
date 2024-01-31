@@ -8,7 +8,6 @@
 #define MQTT_HOST     "192.168.0.101" //or "mqtt.yourdomain.com"
 #define MQTT_PORT     1883
 #define MQTT_BUF_SIZE   1024
-#define MQTT_KEEPALIVE    120  /*second*/
 
 #define MQTT_CLIENT_ID    "CLIENT_1234"
 #define MQTT_USER     "USER"
